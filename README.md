@@ -1,4 +1,4 @@
-# BInary-and-multi-class-classification
+# Binary-and-multi-class-classification
 
 𝗢𝘃𝗲𝗿𝘃𝗶𝗲𝘄
 
